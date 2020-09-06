@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MEDIQ</string>
+    <string name="health_ntip_of_the_n_day">Health \nTip Of The\n Day</string>
+    <string name="back">Back</string>
+    <string name="sugary_drinks_are_among_the_most_fattening_items_you_can_put_into_your_body_this_is_because_your_brain_doesn_t_measure_calories_from_liquid_sugar_the_same_way_it_does_for_solid_food_therefore_when_you_drink_soda_you_end_up_eating_more_total_calories_sugary_drinks_are_strongly_associated_with_obesity_type_2_diabetes_heart_disease_and_many_other_health_problems_keep_in_mind_that_certain_fruit_juices_may_be_almost_as_bad_as_soda_in_this_regard_as_they_sometimes_contain_just_as_much_sugar_their_small_amounts_of_antioxidants_do_not_negate_the_sugar_s_harmful_effects">Sugary drinks are among the most fattening items you can put into your body. This is because your brain doesn’t measure calories from liquid sugar the same way it does for solid food. Therefore, when you drink soda, you end up eating more total calories. Sugary drinks are strongly associated with obesity, type 2 diabetes, heart disease, and many other health problems. Keep in mind that certain fruit juices may be almost as bad as soda in this regard, as they sometimes contain just as much sugar. Their small amounts of antioxidants do not negate the sugar’s harmful effects</string>
+    <string name="todo">TODO</string>
+    <string name="start_here">Start Here</string>
+    <string name="todo1">TODO</string>
+    <string name="directory">Directory</string>
+    <string name="india">India</string>
+    <string name="tools">tools</string>
+    <string name="todo2">TODO</string>
+    <string name="back1">Back</string>
+    <string name="qr_scanner">QR scanner</string>
+    <string name="todo3">TODO</string>
+</resources>
